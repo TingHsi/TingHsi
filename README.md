@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TingHsi
-- 👀 I’m interested in Python3 and ES6
+- 👀 I’m interested in Python3 and Rusr2021
 - 🌱 I’m currently learning that
 - 💞️ I d'not need any collaborate
 - 📫 D'not reach me!
